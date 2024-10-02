@@ -2,6 +2,6 @@ CatPhotoApp is a simple project that showcases a basic web page for cat photos. 
 
 Features
 
-HTML structure: Basic HTML page layout displaying cat photos.
+-HTML structure: Basic HTML page layout displaying cat photos.
 
-Image Display: Organized presentation of cat images.
+-Image Display: Organized presentation of cat images.
